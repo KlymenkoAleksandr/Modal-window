@@ -1,0 +1,33 @@
+body {
+    margin: 15px;
+    text-align: center;
+}
+.custom--bg {
+    background: linear-gradient(45deg, #f3f20be0 85%, #26266f 15%);
+}
+.window-header {
+    border: 0;
+    color: #26266f;
+}
+.cross-button {
+    color: #f3f20be0;
+    text-shadow: 0;
+    opacity: unset;
+}
+.modal-icon {
+    width: 20%;
+}
+.modal-text {
+    font-size: 18px;
+    color: #26266f;
+}
+.buttons {
+    color: #f3f20be0;
+    background-color: #26266f;
+}
+.buttons:hover,
+.buttons:focus,
+.buttons:active {
+    color: #f3f20be0;
+    box-shadow: 0 0 0 0.2rem #ad9e9e;
+}
